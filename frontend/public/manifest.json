@@ -1,0 +1,26 @@
+{
+  "short_name": "מערך AI",
+  "name": "מערך הבינה המלאכותית של אליאב צוף",
+  "description": "מערך תוכן AI חכם - ניהול, יצירה והפצה",
+  "dir": "rtl",
+  "lang": "he",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#F5F7FA",
+  "background_color": "#F5F7FA",
+  "orientation": "portrait"
+}
